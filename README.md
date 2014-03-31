@@ -3,4 +3,4 @@ svn-merge-shell
 
 slell of merging svn code convincely
 change list
-1.init
+1.init the git repository
